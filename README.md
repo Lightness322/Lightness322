@@ -19,3 +19,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
 </div>
+
+### Краткое описание проектов
+
+- [**Landing-JS_multiPages**](https://lightness322.github.io/Landing-JS_multiPages/) - верстка многостраничного сайта. Проект выполнен с использованием JavaScript, Gulp, Webpack.
+- [**Cozy_study**](https://cozy-study.netlify.app/) - сайт для обучения. На сайте можно создавать свои коллекции флеш-карточек и тренировать их. Проект выполнен с использованием React, JavaScript.
+- [**Otium**](https://otium-mg.netlify.app/) - сайт для поиска игр, фильмов и добавления их в избранное. Проект выполнен с использованием React, TypeScript.
+- [**Regextract**](https://regextract.netlify.app/) - сайт для создания регулярных выражений. Главная задача на текущей работе: матчинг (сопоставление) товаров, данный проект значительно ускоряет и упрощает создание регулярных выражений. Проект выполнен с использованием React, TypeScript.
