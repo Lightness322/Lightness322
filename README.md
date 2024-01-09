@@ -25,4 +25,4 @@
 ### Для связи:
 
 [![Static Badge](https://img.shields.io/badge/@Lightness322-black?logo=telegram&style=for-the-badge)](https://t.me/lightness322)
-[![Static Badge](https://img.shields.io/badge/dyubkov99@mail.ru-black?logo=mail.ru&style=for-the-badge&logoColor=orange)](mailto:dyubkov99@mail.ru)
+[![Static Badge](https://img.shields.io/badge/dyubkov99@mail.ru-black?logo=gmail&style=for-the-badge&logoColor=orange)](mailto:mdyubkov99@gmail.com)
